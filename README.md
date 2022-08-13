@@ -1,1 +1,1 @@
-# typescript-lc101-projects
+# Typescript LC101 Projects
